@@ -1,4 +1,4 @@
-AyurTech Medicine Recommender
+# AyurTech Medicine Recommender
 This Streamlit web application recommends medicines based on selected symptoms. It utilizes similarity vectors calculated from medicine data to provide relevant recommendations.
 
 Features
